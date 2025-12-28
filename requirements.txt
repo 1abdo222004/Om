@@ -1,1 +1,4 @@
-nsfw_detector
+pyTelegramBotAPI==4.14.0
+nsfw-detector==1.0.5
+Pillow==10.0.1
+requests==2.31.0
