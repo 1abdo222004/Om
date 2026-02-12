@@ -1,3 +1,6 @@
 pyTelegramBotAPI
 nsfw-detector
-Pillow
+tensorflow-cpu
+numpy
+pillow
+
